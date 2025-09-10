@@ -1,0 +1,1 @@
+cmd_/home/chen66666697/FCEUX/arm-NES-linux-master/joypad/modules.order := {   echo /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/joypad.ko; :; } | awk '!x[$$0]++' - > /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/modules.order

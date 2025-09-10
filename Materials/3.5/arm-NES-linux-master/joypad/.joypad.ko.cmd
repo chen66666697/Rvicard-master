@@ -1,0 +1,1 @@
+cmd_/home/chen66666697/FCEUX/arm-NES-linux-master/joypad/joypad.ko := arm-rockchip830-linux-uclibcgnueabihf-ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/joypad.ko /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/joypad.o /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/joypad.mod.o;  true

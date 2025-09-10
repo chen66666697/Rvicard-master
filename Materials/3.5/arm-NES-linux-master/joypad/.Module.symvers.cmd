@@ -1,0 +1,1 @@
+cmd_/home/chen66666697/FCEUX/arm-NES-linux-master/joypad/Module.symvers := sed 's/\.ko$$/\.o/' /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/modules.order | scripts/mod/modpost     -o /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/chen66666697/FCEUX/arm-NES-linux-master/joypad/joypad.mod := { echo  /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/joypad.o;  echo; } > /home/chen66666697/FCEUX/arm-NES-linux-master/joypad/joypad.mod
