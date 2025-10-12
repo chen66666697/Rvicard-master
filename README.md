@@ -19,9 +19,27 @@ Rvicard 是我出于个人兴趣设计的一款嵌入式开发板，目标是做
 
 
 
+**项目视频演示地址**：
+
+[【开源】 RVicard -- 你一定要尝试的Linux小电脑（拥有非常详细的软硬件教程）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1XCpXzVEJB/?spm_id_from=333.1387.homepage.video_card.click&vd_source=1f98c1b74fbb4fc5a630dc570b8a2e51)
+
+https://www.bilibili.com/video/BV1qFQaY9ETW/?spm_id_from=333.1387.homepage.video_card.click
+
+https://www.bilibili.com/video/BV1DHQfYWEmM/?spm_id_from=333.1387.homepage.video_card.click
+
+[RVicard-个人小电脑_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV145X1Y1Es2/?spm_id_from=333.1387.homepage.video_card.click)
+
+
+
+**硬件开源地址**：
+
+[RVicard-master-V1.0 - 立创开源硬件平台](https://oshwhub.com/chen66666697/rv1106-kai-fa-ban)
+
+
+
 截至2025.9.11 ，Rvicard 教程及资料基本全部编写完成！！！
 
-（清晨下楼时，忽然刮起一阵大风，路旁的金黄落叶被卷成一堆。穿着短袖短裤的我不禁打了个寒颤，抬头望去，这才意识到——秋天已经悄然而至。回想起来，从着手打造 **RViCard** 至今，竟已将近五个月，时间过得真快啊！我的学生生涯也快要结束了）
+（清晨下楼时，忽然刮起一阵大风，路旁的金黄落叶被卷成一堆。穿着短袖短裤的我不禁打了个寒颤，抬头望去，这才意识到——秋天已经悄然而至。回想起来，从着手打造 **RViCard** 至今，竟已将近五个月，时间过得真快啊！）
 
 
 
